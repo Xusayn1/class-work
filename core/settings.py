@@ -26,7 +26,7 @@ INSTALLED_APPS = [
 
     'shared',
 ]
-
+#
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',

@@ -25,6 +25,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'shared',
+    'product',
 ]
 #
 MIDDLEWARE = [
